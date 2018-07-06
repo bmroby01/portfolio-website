@@ -22,7 +22,7 @@ body {
 }
 
 .third-width{
-    width: 400px;
+    width: 450px;
     float:left;
 }
 
@@ -149,7 +149,7 @@ header h2 span {
     line-height: 44px;
 }
 
-#contact #email-header {
+#contact #hire-header {
     font-size: 32px;
     font-weight: 400;
     line-height: 44px;
